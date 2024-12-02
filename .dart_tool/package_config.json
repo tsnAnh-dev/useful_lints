@@ -1,0 +1,293 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-72.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "_macros",
+      "rootUri": "file:///Users/napa_macmini_01/SDKs/flutter/bin/cache/dart-sdk/pkg/_macros",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/analyzer-6.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "analyzer_plugin",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/analyzer_plugin-0.11.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/args-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/async-2.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/boolean_selector-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/checked_yaml-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "ci",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/ci-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cli_util",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/cli_util-0.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/convert-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/crypto-3.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "custom_lint",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/custom_lint-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "custom_lint_builder",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/custom_lint_builder-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "custom_lint_core",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/custom_lint_core-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "custom_lint_visitor",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/custom_lint_visitor-1.0.0+6.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/dart_style-2.3.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/file-7.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/fixnum-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "freezed_annotation",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/freezed_annotation-2.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/glob-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "hotreloader",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/hotreloader-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/json_annotation-4.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/logging-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "macros",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/macros-0.1.2-main.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/matcher-0.12.17",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/package_config-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/pub_semver-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pubspec_parse",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/pubspec_parse-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/rxdart-0.28.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sprintf",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/stack_trace-1.12.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/stream_channel-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/stream_transform-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/string_scanner-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/test_api-0.7.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/uuid-4.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/vm_service-14.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/watcher-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/napa_macmini_01/.pub-cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "useful_lints",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2024-12-02T02:42:34.804248Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.4",
+  "flutterRoot": "file:///Users/napa_macmini_01/SDKs/flutter",
+  "flutterVersion": "3.24.4",
+  "pubCache": "file:///Users/napa_macmini_01/.pub-cache"
+}
